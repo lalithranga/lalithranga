@@ -1,10 +1,11 @@
 <p align="center">
-  <hr style="border: 1px solid #ccc; width: 80%;"/>
-  ## Hi there 👋, I'm Lalith Wijesiri
+  <hr style="border: 1px solid #ccc; width: 80%;" />
+  <strong>Hi 👋, I'm Lalith Wijesiri</strong>
   <br />
-  A passionate Full Stack Developer
-  <hr style="border: 1px solid #ccc; width: 80%;"/>
+  <strong>A passionate Full Stack Developer</strong>
+  <hr style="border: 1px solid #ccc; width: 80%;" />
 </p>
+
 
 
 I'm a full stack software developer currently based in New Zealand.
