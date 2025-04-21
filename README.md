@@ -10,6 +10,7 @@ I love exploring new tech stacks, building smart, useful tools , and diving into
 <br>
 
 ### Connect with Me
+<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lalith-wijesiri-60a340166" target="_blank">
