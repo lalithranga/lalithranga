@@ -5,7 +5,7 @@
 
 I'm a full stack software developer currently based in New Zealand.  
 I'm fascinated by how computer technology has transformed the world in ways we never imagined.  
-I love exploring new tech stacks, building smart, useful tools 🛠️, and diving into everything from web apps to AI integrations 🤖.
+I love exploring new tech stacks, building smart, useful tools , and diving into everything from web apps to AI integrations .
 
 <br>
 
