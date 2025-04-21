@@ -19,7 +19,9 @@ I've worked on projects involving cloud platforms, chatbots, AI vehicle predicti
 </p>
 
 ---
-
+<br>
+<br>
+<br>
 
 
 
