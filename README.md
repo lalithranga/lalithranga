@@ -1,11 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <hr style="border: 1px solid #ccc; width: 80%;"/>
+  ## Hi there 👋, I'm Lalith Wijesiri
+  <br />
+  A passionate Full Stack Developer
+  <hr style="border: 1px solid #ccc; width: 80%;"/>
+</p>
+
 
 I'm a full stack software developer currently based in New Zealand.
 
-I'm fascinated by how computer technology 🌐 has transformed the world in ways we never imagined.  
-I love exploring new tech stacks 💻, building smart, useful tools 🛠️, and diving into everything from web apps to AI integrations 🤖.
-
-I've worked on projects involving cloud platforms, chatbots, AI vehicle prediction systems, and management systems across education and e-commerce.
+I'm fascinated by how computer technology has transformed the world in ways we never imagined.  
+I love exploring new tech stacks, building smart, useful tools 🛠️, and diving into everything from web apps to AI integrations 🤖.
 
 <br>
 
