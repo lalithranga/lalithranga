@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**lalithranga/lalithranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack software developer currently based in New Zealand.
 
-Here are some ideas to get you started:
+I'm fascinated by how computer technology 🌐 has transformed the world in ways we never imagined.  
+I love exploring new tech stacks 💻, building smart, useful tools 🛠️, and diving into everything from web apps to AI integrations 🤖.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked on projects involving cloud platforms, chatbots, AI vehicle prediction systems, and management systems across education and e-commerce.
+
+![Profile Views](https://komarev.com/ghpvc/?username=lalithranga&color=blue)
+
+
+### 🧰 My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,spring,mysql,mongodb,docker,azure" />
+</p>
+
+
+
