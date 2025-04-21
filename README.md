@@ -7,6 +7,8 @@ I love exploring new tech stacks 💻, building smart, useful tools 🛠️, and
 
 I've worked on projects involving cloud platforms, chatbots, AI vehicle prediction systems, and management systems across education and e-commerce.
 
+<br>
+
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -20,11 +22,6 @@ I've worked on projects involving cloud platforms, chatbots, AI vehicle predicti
 
 ---
 <br>
-<br>
-<br>
-
-
-
 
 ### 🧰 My Tech Toolbox
 
