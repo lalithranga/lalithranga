@@ -1,8 +1,8 @@
 <p align="center">
   <hr style="border: 1px solid #ccc; width: 80%;" />
-  <strong>Hi 👋, I'm Lalith Wijesiri</strong>
+  <strong style="font-size: 32px;">Hi 👋, I'm Lalith Wijesiri</strong>
   <br />
-  <strong>A passionate Full Stack Developer</strong>
+  <span style="font-size: 20px;"><strong>A passionate Full Stack Developer</strong></span>
   <hr style="border: 1px solid #ccc; width: 80%;" />
 </p>
 
