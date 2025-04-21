@@ -11,18 +11,10 @@ I've worked on projects involving cloud platforms, chatbots, AI vehicle predicti
 ### 🧰 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,spring,mysql,mongodb,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,nodejs,spring,mysql,mongodb,docker,azure,postman,figma,git,intellij,vscode" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lalithranga&color=blue)
-
-### 🛠️ My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,spring,mysql,mongodb,docker,azure" />
-</p>
-
-
 
 
 
