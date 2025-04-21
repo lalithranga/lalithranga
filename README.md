@@ -7,14 +7,25 @@ I love exploring new tech stacks 💻, building smart, useful tools 🛠️, and
 
 I've worked on projects involving cloud platforms, chatbots, AI vehicle prediction systems, and management systems across education and e-commerce.
 
-![Profile Views](https://komarev.com/ghpvc/?username=lalithranga&color=blue)
+[![Java](https://skillicons.dev/icons?i=java)](https://your-animated-java-icon-link.com)
+
+### 🔧 Tech Stack
+
+[![Java](https://skillicons.dev/icons?i=java)](https://your-animated-java.gif)  
+[![Python](https://skillicons.dev/icons?i=python)](https://your-animated-python.gif)  
+[![React](https://skillicons.dev/icons?i=react)](https://your-animated-react.gif)
 
 
-### 🧰 My Tech Toolbox
+<img src="https://your-gif-url.com/python.gif" width="60px" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,spring,mysql,mongodb,docker,azure" />
-</p>
+
+<a href="https://your-animated-react.gif" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" width="60px"/>
+</a>
+
+
+
+
 
 
 
