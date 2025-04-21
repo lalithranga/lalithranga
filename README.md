@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lalith Wijesiri</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+<br>
+
 
 
 I'm a full stack software developer currently based in New Zealand.
@@ -10,7 +12,7 @@ I love exploring new tech stacks, building smart, useful tools 🛠️, and divi
 
 <br>
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lalith-wijesiri-60a340166" target="_blank">
